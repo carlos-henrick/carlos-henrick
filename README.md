@@ -35,7 +35,6 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 ## 📫 Contato
 
 - Email: hoinats2003@gmail.com  
-- GitHub: https://github.com/carlos-henrick
 
 ---
 

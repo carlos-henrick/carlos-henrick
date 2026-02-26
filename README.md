@@ -1,6 +1,6 @@
 # 👋 Carlos Henrick Camargo Hoinats
 
-**Backend Developer | Python & Java**
+**Backend Developer**
 
 Sou estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend.  
 Atualmente estudando arquitetura de software, segurança de APIs.

@@ -12,7 +12,7 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 **Linguagens**
 - Python
 - Java   
-- JavaScript (básico)  
+- JavaScript   
 - PHP  
 
 **Backend & Frameworks**

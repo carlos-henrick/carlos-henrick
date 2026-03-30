@@ -1,4 +1,4 @@
-# 👋 Carlos Henrick Camargo Hoinats
+# Carlos Henrick Camargo Hoinats
 
 **Backend Developer**
 
@@ -7,7 +7,7 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 **Linguagens**
 - Python
@@ -25,14 +25,14 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 
 ---
 
-## 🎓 Gradução
+## Gradução
 
 **UNISOCIESC – Análise e Desenvolvimento de Sistemas**  
 2025 – 2027 (cursando)
 
 ---
 
-## 📫 Contato
+## Contato
 
 - Email: hoinats2003@gmail.com  
 

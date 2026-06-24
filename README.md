@@ -15,27 +15,32 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 - JavaScript   
 - PHP  
 
-**Backend & Frameworks**
-- Flask  
+**Frameworks**
+-Typescript
+- Flask
+- Spring Boot 
 - SQLAlchemy  
 
 **Banco de Dados**
 - MySQL  
-- SQLite  
+- SQLite
+- Postgresql (Aprendendo) 
 
 ---
 
-## Gradução
+## Cursos
 
+**SENAI - Desenvolvimento de Sistemas**
+(Concluído)
 **UNISOCIESC – Análise e Desenvolvimento de Sistemas**  
-2025 – 2027 (cursando)
+(Cursando)
 
 ---
 
 ## Contato
 
-- Email: hoinats2003@gmail.com  
-
+- Email: hoinats2003@gmail.com
+  
 ---
 
 > Sempre aprendendo e aprimorando boas práticas de desenvolvimento backend.

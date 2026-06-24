@@ -38,6 +38,7 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 ## Contato
 
 - Email: hoinats2003@gmail.com
+- Linkedin: https://www.linkedin.com/in/carlos-henrick-camargo-hoinats-a7a39029b
   
 ---
 

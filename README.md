@@ -24,7 +24,7 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 **Banco de Dados**
 - MySQL  
 - SQLite
-- Postgresql (Aprendendo) 
+- Postgresql 
 
 ---
 

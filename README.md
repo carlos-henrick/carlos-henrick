@@ -30,7 +30,7 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 
 ## Cursos
 
-**SENAI - Técnico Desenvolvimento de Sistemas** (Concluído)                                       
+**SENAI - Técnico em Desenvolvimento de Sistemas** (Concluído)                                       
 **UNISOCIESC – Análise e Desenvolvimento de Sistemas** (Cursando)
 
 ---

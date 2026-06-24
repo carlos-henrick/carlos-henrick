@@ -16,8 +16,8 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 - PHP  
 
 **Frameworks**
--Typescript
-- Flask
+- Typescript  
+- Flask  
 - Spring Boot 
 - SQLAlchemy  
 

@@ -32,6 +32,7 @@ Atualmente estudando arquitetura de software, segurança de APIs.
 
 **SENAI - Desenvolvimento de Sistemas**
 (Concluído)
+
 **UNISOCIESC – Análise e Desenvolvimento de Sistemas**  
 (Cursando)
 

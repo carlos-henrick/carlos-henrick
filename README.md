@@ -1,5 +1,7 @@
-<h1 align="center">💻 Carlos Henrick Camargo Hoinats</h1>
-<h3 align="center">Fullstack Developer • Backend Focused</h3>
+<div align="center">
+<h1>💻 Carlos Henrick Camargo Hoinats</h1>
+<h3>Fullstack Developer • Backend Focused</h3>
+</div>
 
 ## 👨‍💻 Sobre mim
 

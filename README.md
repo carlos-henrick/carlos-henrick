@@ -9,7 +9,7 @@ Olá! Sou Carlos, estudante de Análise e Desenvolvimento de Sistemas e desenvol
 
 Tenho interesse em desenvolver sistemas, APIs e aplicações eficientes, organizadas e fáceis de manter. Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, desenvolvimento de APIs e boas práticas de programação.
 
-Meu principal foco é o desenvolvimento Backend com Java e Python, mas também trabalho com React e TypeScript para criar interfaces quando necessário.
+Meu principal foco é o desenvolvimento Backend com PHP, Java e Python, mas também trabalho com React e TypeScript para criar interfaces quando necessário.
 
 Acredito que a melhor forma de evoluir é colocando o conhecimento em prática. Por isso, desenvolvo projetos pessoais buscando compreender não apenas como construir uma aplicação, mas também como torná-la mais organizada, segura, escalável e de fácil manutenção.
 

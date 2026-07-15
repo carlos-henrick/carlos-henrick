@@ -18,13 +18,13 @@ Acredito que a melhor forma de evoluir é colocando o conhecimento em prática. 
 ### Linguagens
 `Java` • `Python` • `JavaScript` • `TypeScript` • `PHP`
 ### Frameworks
-`React` • `Flask`
+`React` • `Flask` 
 ### Banco de Dados
 `MySQL` • `PostgreSQL` • `SQLite`
 ### Ferramentas
 `Git` • `GitHub` • `Postman`
 ### Atualmente estudando
-`Spring Boot` • `Docker`
+`Laravel` • `Docker`
 
 ## 📫 Contato
 

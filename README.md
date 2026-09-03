@@ -24,7 +24,7 @@ Acredito que a melhor forma de evoluir é colocando o conhecimento em prática. 
 ### Ferramentas
 `Git` • `GitHub` • `Postman`
 ### Atualmente estudando
-`Laravel` • `Docker`
+`Docker`
 
 ## 📫 Contato
 

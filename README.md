@@ -3,7 +3,7 @@
 <h3>Fullstack Developer • Backend Focused</h3>
 </div>
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Olá! Sou Carlos, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Fullstack com foco em Backend.
 
@@ -13,7 +13,7 @@ Meu principal foco é o desenvolvimento Backend com PHP, Java e Python, mas tamb
 
 Acredito que a melhor forma de evoluir é colocando o conhecimento em prática. Por isso, desenvolvo projetos pessoais buscando compreender não apenas como construir uma aplicação, mas também como torná-la mais organizada, segura, escalável e de fácil manutenção.
 
-## 🤖 Tecnologias
+## Tecnologias
 
 ### Linguagens
 `Java` • `Python` • `JavaScript` • `TypeScript` • `PHP`
@@ -26,7 +26,7 @@ Acredito que a melhor forma de evoluir é colocando o conhecimento em prática. 
 ### Atualmente estudando
 `Docker`
 
-## 📫 Contato
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-henrick-camargo-hoinats-a7a39029b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoinats2003@gmail.com)

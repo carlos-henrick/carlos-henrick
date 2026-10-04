@@ -1,30 +1,50 @@
 <div align="center">
 <h1>💻 Carlos Henrick Camargo Hoinats</h1>
-<h3>Fullstack Developer • Backend Focused</h3>
+<h3>Software Developer • Backend Focused</h3>
 </div>
 
 ## Sobre mim
 
-Olá! Sou Carlos, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor Fullstack com foco em Backend.
+Olá! Sou Carlos, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor de software com foco em Backend.
 
-Tenho interesse em desenvolver sistemas, APIs e aplicações eficientes, organizadas e fáceis de manter. Atualmente, estou aprofundando meus conhecimentos em arquitetura de software, desenvolvimento de APIs e boas práticas de programação.
+Atualmente trabalho principalmente com PHP e Laravel, desenvolvendo APIs, regras de negócio, integrações, banco de dados e aplicações web. Também tenho contato com infraestrutura, deploy, logs e manutenção de sistemas em produção.
 
-Meu principal foco é o desenvolvimento Backend com PHP, Java e Python, mas também trabalho com React e TypeScript para criar interfaces quando necessário.
+Tenho experiência com Python e Java e venho estudando diferentes áreas do desenvolvimento de software para ampliar minha base em arquitetura, segurança, testes e engenharia de software.
 
-Acredito que a melhor forma de evoluir é colocando o conhecimento em prática. Por isso, desenvolvo projetos pessoais buscando compreender não apenas como construir uma aplicação, mas também como torná-la mais organizada, segura, escalável e de fácil manutenção.
+Acredito que a melhor forma de evoluir é colocando conhecimento em prática. Por isso, desenvolvo projetos pessoais buscando entender não apenas como construir uma aplicação, mas também como projetá-la, testá-la, mantê-la e evoluí-la.
+
+### 🎯 Atualmente focado em
+
+- PHP e Laravel
+- Desenvolvimento Backend
+- APIs REST e integrações
+- SQL e bancos de dados
+- Arquitetura de software
+- Testes e qualidade de software
+- Git e boas práticas de desenvolvimento
+
+### Estudando
+
+- Docker
+- JavaScript e React
+- TypeScript
+- Testes automatizados
+- Linux
+- Arquitetura e engenharia de software
 
 ## Tecnologias
 
 ### Linguagens
-`Java` • `Python` • `JavaScript` • `TypeScript` • `PHP`
+`PHP` • `Java` • `Python` • `JavaScript` • `SQL`
+
 ### Frameworks
-`React` • `Flask` 
+`Laravel` • `React` • `Flask`
+
 ### Banco de Dados
-`MySQL` • `PostgreSQL` • `SQLite`
+`PostgreSQL` • `MySQL` • `SQLite`
+
 ### Ferramentas
-`Git` • `GitHub` • `Postman`
-### Atualmente estudando
-`Docker`
+`Git` • `GitHub` • `Postman` 
 
 ## Contato
 

@@ -26,7 +26,6 @@ Acredito que a melhor forma de evoluir é colocando conhecimento em prática. Po
 ### Estudando
 
 - Docker
-- JavaScript e React
 - TypeScript
 - Testes automatizados
 - Linux
